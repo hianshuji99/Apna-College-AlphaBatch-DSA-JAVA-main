@@ -39,7 +39,7 @@ I've included my detailed handwritten notes, providing explanations and insights
 
 Let's connect and collaborate! If you have questions, suggestions, or just want to say hi, feel free to reach out:
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mandartule)
-- **Email:** mandartule5@gmail.com
+- **LinkedIn:** [(https://www.linkedin.com/in/himanshutripathi99/))
+- **Email:** himanshutripathiji99@gmail.com
 
 Happy coding! 🚀✨
